@@ -1,3 +1,7 @@
 mount x: c:\tasm
 
 set path=z:\;x:\tasm\bin;x:\tc\bin;
+
+
+
+proverka ))
