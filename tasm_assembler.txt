@@ -5,3 +5,6 @@ set path=z:\;x:\tasm\bin;x:\tc\bin;
 
 
 proverka ))
+
+
+vot tut ya chto-to izmenil
